@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+###19yo computer science student from Montreal 🇨🇦
+I like to develop full stack websites, mobile applications and eat korean bbq
 <!--
 **DekyCS/dekycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
