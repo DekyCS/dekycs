@@ -1,6 +1,6 @@
 # Hi, I'm Omar Lahlou Mimi 👋
 
-### Full-Stack Developer | AI Enthusiast | Hackathon Winner
+### Full-Stack Developer | AI Enthusiast | 8x Hackathon Winner
 
 I'm a Computer Science student at John Abbott College with a passion for building innovative solutions that solve real-world problems. I specialize in full-stack development and AI-powered applications, with experience scaling systems and optimizing workflows.
 
@@ -41,18 +41,12 @@ Smart group planning mobile app with 100+ beta testers, featuring schedule optim
 - 🎯 6th Place: CUSEC 2025 (Canada's largest student software engineering conference)
 - 🎨 Most Creative Project: CSSA Personal Project Showcase 2025
 
-## 📫 Let's Connect
-
-- 💼 [Portfolio](https://omarlahloumimi.com)
-- 📧 [Email](mailto:omarlahmimi@gmail.com)
-- 🌍 Based in Montreal, QC
-
 ---
 
 *Always open to collaborating on innovative projects and hackathons!*
 
-<a href="https://www.linkedin.com/in/bogdan-feher-b7567b203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bogdan.feher@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/omar-lahlou-mimi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:omarlahmimi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=dekycs)
 
 <img align='left' alt='Python' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
